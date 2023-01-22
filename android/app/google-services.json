@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "584512860020",
+    "project_id": "npdo-flutter-9b794",
+    "storage_bucket": "npdo-flutter-9b794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584512860020:android:1208d0c570b40adfedc621",
+        "android_client_info": {
+          "package_name": "com.example.npdo_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584512860020-ugjp8482b5lopeue5sf9ppfabhvc5nk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZC49WowbaGgdMCeLsLrlleYMwWZRYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584512860020-ugjp8482b5lopeue5sf9ppfabhvc5nk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584512860020-uvplpp7b8lu1ppm6mvnchoi004sdthri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.npdoFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
